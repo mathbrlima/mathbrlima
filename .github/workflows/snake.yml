@@ -16,8 +16,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: mathbrlima
-          color_snake: "#00FFFF"
-          color_dots: "#00FFFF"
+          palette: github-dark
           outputs: |
             dist/snake-dark.svg
 
