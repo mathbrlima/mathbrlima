@@ -52,4 +52,5 @@
 </div>
 
 ![Snake animation](https://github.com/mathbrlima/mathbrlima/blob/output/snake-dark.svg)
-![GitHub Profile 3D Contribution](https://raw.githubusercontent.com/mathbrlima/mathbrlima/profile-3d-contrib/profile-night-green.svg)
+
+![skyline](https://raw.githubusercontent.com/mathbrlima/mathbrlima/output/skyline.svg)
