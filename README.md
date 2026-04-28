@@ -52,5 +52,3 @@
 </div>
 
 ![Snake animation](https://github.com/mathbrlima/mathbrlima/blob/output/snake-dark.svg)
-
-![skyline](https://raw.githubusercontent.com/mathbrlima/mathbrlima/output/skyline.svg)
