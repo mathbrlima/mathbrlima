@@ -42,7 +42,7 @@
 
 ---
 
-## 💬 Contacts
+## 💬 Contact platforms
 
 <div> 
   
