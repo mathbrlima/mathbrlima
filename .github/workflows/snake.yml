@@ -1,4 +1,4 @@
-name: Snake Cyberpunk
+name: Generate Snake
 
 on:
   schedule:
@@ -9,17 +9,23 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake (Cyberpunk)
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: mathbrlima
           outputs: |
             dist/snake.svg
-          args: >
-            --theme dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
