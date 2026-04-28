@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Snake Animation
 
 on:
   schedule:
@@ -9,20 +9,22 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
           github_user_name: mathbrlima
+          color_snake: "#00FFFF"
+          color_dots: "#000000"
           outputs: |
             dist/snake.svg
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
