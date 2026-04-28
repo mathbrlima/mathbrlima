@@ -45,7 +45,6 @@
 ## 💬 Contact platforms
 
 <div> 
-  
   <a href="mailto:mathbrlima2007@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"></a>
   <a href="https://www.linkedin.com/in/matheus-lima-9058b92b5/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a>
   <a href="https://github.com/mathbrlima" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" >
