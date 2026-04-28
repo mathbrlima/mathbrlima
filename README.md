@@ -51,4 +51,4 @@
   <a href="https://github.com/mathbrlima" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" >
 </div>
 
-![snake animation](https://github.com/mathbrlima/mathbrlima/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/mathbrlima/mathbrlima/output/github-contribution-grid-snake.svg)
