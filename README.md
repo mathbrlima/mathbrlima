@@ -74,8 +74,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mathbrlima/mathbrlima/blob/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mathbrlima/mathbrlima/blob/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://github.com/mathbrlima/mathbrlima/blob/output/pacman-contribution-graph.svg">
   </picture>
 </p>
