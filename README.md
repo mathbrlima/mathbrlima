@@ -35,11 +35,10 @@
 
 ## 📊 Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathbrlima&show_icons=true&theme=chartreuse-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbrlima&layout=compact&theme=chartreuse-dark"/>
-</p>
-
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathbrlima&show_icons=true&theme=chartreuse-dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbrlima&layout=compact&theme=chartreuse-dark" />
+</div>
 
 ---
 
