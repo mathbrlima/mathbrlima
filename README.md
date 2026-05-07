@@ -35,15 +35,34 @@
 
 ## 📊 Stats
 
+### Activity in github
+
+</table>
+<br />
+
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathbrlima&show_icons=true&theme=chartreuse-dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbrlima&layout=compact&theme=chartreuse-dark" />
+
+<p align="center">
+  <img src="https://github-readme-statss-inky.vercel.app/api?username=mathbrlima&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+
+  </div>
+  
+### Activity in leetcode
+
+</table>
+<br />
+
+<div align="center">
+</p>
+<img height="165" src="https://leetcard.jacoblin.cool/mathbrlima?theme=dark&font=Nunito&hide_border=true"/>
+
 </div>
 
 ---
 
 ## 💬 Contact platforms
 
+<table align="center">
 <div> 
   <a href="mailto:mathbrlima2007@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"></a>
   <a href="https://www.linkedin.com/in/matheus-lima-9058b92b5/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a>
@@ -59,3 +78,12 @@
 🟩 Heatmap (green squares): This is a contribution activity graph that represents your development activity over time. Each square corresponds to a specific day, and its intensity (light to dark green) reflects the volume of contributions made on that day, including commits, pull requests, issues, and other repository activities.
 
 🐍 Snake animation: This is a visual layer generated on top of the heatmap using GitHub Actions. It does not modify or affect any real data. Its purpose is purely aesthetic, providing a dynamic representation of the contribution flow across the activity grid.
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
