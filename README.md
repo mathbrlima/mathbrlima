@@ -80,10 +80,3 @@
 🐍 Snake animation: This is a visual layer generated on top of the heatmap using GitHub Actions. It does not modify or affect any real data. Its purpose is purely aesthetic, providing a dynamic representation of the contribution flow across the activity grid.
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
