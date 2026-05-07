@@ -1,3 +1,7 @@
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  name: Generate Pacman Animation
+
 name: Generate Pacman Animation
 
 on:
@@ -10,15 +14,12 @@ on:
       - Master
 
 permissions:
-  contents: write
+  contents: write   # ✅ IMPORTANT (moved global)
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 20
-
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout
@@ -27,7 +28,7 @@ jobs:
       - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: mathbrlima
+          github_user_name: rahuloraj   # ✅ FIXED (hardcoded)
 
       - name: Move files to dist
         run: |
@@ -41,6 +42,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
