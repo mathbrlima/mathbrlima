@@ -71,10 +71,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mathbrlima/output/pacman-contribution-graph.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/mathbrlima/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" />
-</p>
+![Pacman Animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/pacman-contribution-graph.svg)
 
 ![Snake animation](https://github.com/mathbrlima/mathbrlima/blob/output/snake-dark.svg)
 
