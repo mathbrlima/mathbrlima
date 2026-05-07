@@ -3,7 +3,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Matheus Lima!!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+FIAP;Focused+in+Backend;Creating+projects+and+experiences;Technology+moves+the+world+—+Steve+Jobs" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+FIAP;Focused+in+Back-end;Creating+projects+and+experiences;Technology+moves+the+world+—+Steve+Jobs" />
 </p>
 
 ---
