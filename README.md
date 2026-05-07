@@ -69,7 +69,7 @@
 
 ---
 
-## 🟡 Contribution Pac-Man
+## 🟡 interactive contribution Pac-Man
 
 
 <p align="center">
@@ -80,7 +80,7 @@
   </picture>
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 interactive contribution Snake
 
 ![Snake](https://raw.githubusercontent.com/mathbrlima/mathbrlima/snake-output/snake-dark.svg)
 
