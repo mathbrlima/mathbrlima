@@ -69,20 +69,23 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🟡 Contribution Pac-Man
+
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://github.com/mathbrlima/mathbrlima/blob/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/mathbrlima/mathbrlima/blob/output/snake-dark.svg)
 
 🟩 Heatmap (green squares): This is a contribution activity graph that represents your development activity over time. Each square corresponds to a specific day, and its intensity (light to dark green) reflects the volume of contributions made on that day, including commits, pull requests, issues, and other repository activities.
 
-🐍 Snake animation: This is a visual layer generated on top of the heatmap using GitHub Actions. It does not modify or affect any real data. Its purpose is purely aesthetic, providing a dynamic representation of the contribution flow across the activity grid.
+🐍🟡Snake/Pac-Man animation: This is a visual layer generated on top of the heatmap using GitHub Actions. It does not modify or affect any real data. Its purpose is purely aesthetic, providing a dynamic representation of the contribution flow across the activity grid.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
