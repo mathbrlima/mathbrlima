@@ -71,6 +71,11 @@
 
 ## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mathbrlima/output/pacman-contribution-graph.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/mathbrlima/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" />
+</p>
+
 ![Snake animation](https://github.com/mathbrlima/mathbrlima/blob/output/snake-dark.svg)
 
 🟩 Heatmap (green squares): This is a contribution activity graph that represents your development activity over time. Each square corresponds to a specific day, and its intensity (light to dark green) reflects the volume of contributions made on that day, including commits, pull requests, issues, and other repository activities.
