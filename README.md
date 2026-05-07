@@ -37,16 +37,12 @@
 
 ### Activity in github
 
-</table>
-<br />
-
 <div align="center">
-
-<p align="center">
-  <img src="https://github-readme-statss-inky.vercel.app/api?username=mathbrlima&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-
-  </div>
+  <img height="160em" src="https://github-readme-statss-inky.vercel.app/api?username=mathbrlima&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="jahsbaby" />
   
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mathbrlima&langs_count=8&theme=chartreuse-dark" alt="jahsbaby" />
+</div>
+
 ### Activity in leetcode
 
 </table>
@@ -54,7 +50,7 @@
 
 <div align="center">
 </p>
-<img height="165" src="https://leetcard.jacoblin.cool/mathbrlima?theme=dark&font=Nunito&hide_border=true"/>
+<img height="165" src="https://leetcard.jacoblin.cool/mathbrlima?theme=dark&font=Nunito&layout=compact&hide_border=true"/>
 
 </div>
 
