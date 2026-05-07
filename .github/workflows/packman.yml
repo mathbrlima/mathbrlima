@@ -28,7 +28,7 @@ jobs:
       - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: rahuloraj   # ✅ FIXED (hardcoded)
+          github_user_name: mahtbrlima   # ✅ FIXED (hardcoded)
 
       - name: Move files to dist
         run: |
