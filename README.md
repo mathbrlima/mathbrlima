@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Integrated Development Environment
+## 🛠️ Integrated Development Environments
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
