@@ -13,7 +13,7 @@
 💻 Computer Science Student  
 🏫 Currently in the first semester at FIAP – Faculdade de Informática e Administração Paulista  
 🤔 Main areas of interest: Back-end, Front-end, Full-stack, DevOps, Databases, AI  
-💼 Career goal: Full-stack developer
+💼 Career goal: Back-end developer
 
 > *“Learning. Building. Improving.”*
 
