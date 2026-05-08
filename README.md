@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ IDE & Tools
+## 🛠️  IDE & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
