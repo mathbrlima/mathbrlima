@@ -19,10 +19,10 @@
 
 ---
 
-## ⚡ Programming Languages
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python" />
+  <img src="https://skillicons.dev/icons?i=js,python,html" />
 </p>
 
 ---
