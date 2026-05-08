@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️  IDE & Tools
+## 🛠️ Integrated Development Environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
